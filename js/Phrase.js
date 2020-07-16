@@ -3,4 +3,8 @@
  * Phrase.js
  * Phrase.js to create a Phrase class to handle the creation of phrases.
  */
-class Phrase {}
+// creating constructors
+
+class Phrase {
+  constructor(phrase) {}
+}
