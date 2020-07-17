@@ -6,5 +6,7 @@
 // creating constructors
 
 class Phrase {
-  constructor(phrase) {}
+  constructor(phrase) {
+    this.phrase = phrase;
+  }
 }
