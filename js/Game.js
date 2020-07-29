@@ -4,7 +4,9 @@
 class Game {
   constructor() {
     this.missed = 0;
-    this.phrase = ["phrase"];
+    this.phrase = [];
     this.activePhrase = null;
   }
+
+  //create a function :createPhrases() 
 }
